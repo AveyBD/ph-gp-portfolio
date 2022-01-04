@@ -1,2 +1,1 @@
-# ph-gp-portfolio
-Programming Hero Github Pages Portfolio
+# Programming Hero Portfolio Using Github Pages
