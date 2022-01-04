@@ -19,6 +19,7 @@ body {
     height: 70px;
     width: 100%;
     text-align:center;
+    position: fixed;
   }
   .navigation-bar img{
   float:left;
