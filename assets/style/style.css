@@ -1,5 +1,10 @@
 body {
     font-family: 'Jost', sans-serif;
+    padding: 0%;
+    margin: 0;
+}
+.navigation{
+background-color: black;
 }
 
 .hello {
@@ -13,4 +18,30 @@ body {
 
 .green{
     color: #48bf91;
+}
+
+.details{
+    width: 50%;
+    padding: 10px;
+}
+
+.profile-image{
+    width: 50%;
+    padding: 10px;
+}
+
+.profile-image img{
+    width: 100%;
+}
+
+#Hero{
+    display: flex;
+}
+
+.hireMeButton{
+    text-decoration: none;
+    background-color: #48bf91;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: black;
 }
