@@ -101,3 +101,17 @@ body {
     border-radius: 5px;
     color: black;
 }
+
+.title{
+    font-size: 3rem;
+    text-align: center;
+}
+#portfolio{
+    display: flex;
+}
+
+
+
+.works{
+    width: 50%;
+}
