@@ -1,3 +1,6 @@
+html {
+	scroll-behavior: smooth;
+}
 body {
     font-family: 'Jost', sans-serif;
     padding: 0%;
@@ -75,7 +78,7 @@ body {
     padding: 10%;
 }
 
-.info{
+.info {
     margin-bottom: 50px;
 }
 
@@ -89,9 +92,13 @@ body {
 }
 
 #Hero {
-    display: flex;
+
     background-image: url(./assets/image/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.flexible{
+    display: flex;
 }
 
 .hireMeButton {
@@ -102,16 +109,17 @@ body {
     color: black;
 }
 
-.title{
+.title {
     font-size: 3rem;
     text-align: center;
 }
-#portfolio{
-    display: flex;
+
+#portfolio {
+
 }
 
 
-
-.works{
+.works {
     width: 50%;
+    padding: 0 10px;
 }
