@@ -5,8 +5,28 @@ body {
 }
 .navigation{
 background-color: black;
+height: 35px;
 }
 
+.navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+}
+
+.navigation li a{
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+.logo{
+    padding-left: 15px;
+}
 .hello {
     margin-bottom: -35px;
 }
